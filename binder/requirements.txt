@@ -6,6 +6,6 @@ scikit_learn==1.0.2
 mlxtend==0.21.0
 scikit-image==0.19.3
 xgboost==1.6.2
-astropy==4.3.1
+astropy==6.0.0
 tensorflow==2.10.0
 keras-tuner==1.1.3
